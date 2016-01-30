@@ -4,11 +4,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{19FEE729-DD8F-44C4-ADF8-7DD466816E5B}</ProjectGuid>
+    <ProjectGuid>{83C459A7-800E-4F3C-8FBC-439CB47F9C7A}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>_003.Illuminati_Lock</RootNamespace>
-    <AssemblyName>003.Illuminati Lock</AssemblyName>
+    <RootNamespace>_007.Student_Cables</RootNamespace>
+    <AssemblyName>007.Student Cables</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>
@@ -41,7 +41,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="IlluminatiLock.cs" />
+    <Compile Include="StudentCables.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

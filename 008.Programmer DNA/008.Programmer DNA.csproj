@@ -4,11 +4,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{19FEE729-DD8F-44C4-ADF8-7DD466816E5B}</ProjectGuid>
+    <ProjectGuid>{3D8B2813-E6A2-4D37-AE29-1D21A29D3EC6}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>_003.Illuminati_Lock</RootNamespace>
-    <AssemblyName>003.Illuminati Lock</AssemblyName>
+    <RootNamespace>_008.Programmer_DNA</RootNamespace>
+    <AssemblyName>008.Programmer DNA</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>
@@ -41,7 +41,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="IlluminatiLock.cs" />
+    <Compile Include="ProgrammerDNA.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

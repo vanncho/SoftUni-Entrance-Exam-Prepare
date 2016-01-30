@@ -13,6 +13,16 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "004.Master Herbalist", "004
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "003.Illuminati Lock", "003.Illuminati Lock\003.Illuminati Lock.csproj", "{19FEE729-DD8F-44C4-ADF8-7DD466816E5B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "006.InsideTheBuilding", "006.InsideTheBuilding\006.InsideTheBuilding.csproj", "{F80494EC-EDB2-401E-8438-0AACCD2326F1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "007.Student Cables", "007.Student Cables\007.Student Cables.csproj", "{83C459A7-800E-4F3C-8FBC-439CB47F9C7A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "008.Programmer DNA", "008.Programmer DNA\008.Programmer DNA.csproj", "{3D8B2813-E6A2-4D37-AE29-1D21A29D3EC6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "009.Magic Car Numbers", "009.Magic Car Numbers\009.Magic Car Numbers.csproj", "{92B42638-433E-4CDE-B5D3-B4DD97A91473}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "010.Bit Flipper", "010.Bit Flipper\010.Bit Flipper.csproj", "{7D29BAAF-2280-457D-951F-CE5D10B27B5B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +49,26 @@ Global
 		{19FEE729-DD8F-44C4-ADF8-7DD466816E5B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{19FEE729-DD8F-44C4-ADF8-7DD466816E5B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{19FEE729-DD8F-44C4-ADF8-7DD466816E5B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F80494EC-EDB2-401E-8438-0AACCD2326F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F80494EC-EDB2-401E-8438-0AACCD2326F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F80494EC-EDB2-401E-8438-0AACCD2326F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F80494EC-EDB2-401E-8438-0AACCD2326F1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{83C459A7-800E-4F3C-8FBC-439CB47F9C7A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83C459A7-800E-4F3C-8FBC-439CB47F9C7A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{83C459A7-800E-4F3C-8FBC-439CB47F9C7A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{83C459A7-800E-4F3C-8FBC-439CB47F9C7A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3D8B2813-E6A2-4D37-AE29-1D21A29D3EC6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D8B2813-E6A2-4D37-AE29-1D21A29D3EC6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D8B2813-E6A2-4D37-AE29-1D21A29D3EC6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D8B2813-E6A2-4D37-AE29-1D21A29D3EC6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{92B42638-433E-4CDE-B5D3-B4DD97A91473}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92B42638-433E-4CDE-B5D3-B4DD97A91473}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92B42638-433E-4CDE-B5D3-B4DD97A91473}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92B42638-433E-4CDE-B5D3-B4DD97A91473}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7D29BAAF-2280-457D-951F-CE5D10B27B5B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D29BAAF-2280-457D-951F-CE5D10B27B5B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D29BAAF-2280-457D-951F-CE5D10B27B5B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D29BAAF-2280-457D-951F-CE5D10B27B5B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

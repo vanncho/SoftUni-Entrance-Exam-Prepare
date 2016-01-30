@@ -4,11 +4,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{19FEE729-DD8F-44C4-ADF8-7DD466816E5B}</ProjectGuid>
+    <ProjectGuid>{F80494EC-EDB2-401E-8438-0AACCD2326F1}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>_003.Illuminati_Lock</RootNamespace>
-    <AssemblyName>003.Illuminati Lock</AssemblyName>
+    <RootNamespace>_006.InsideTheBuilding</RootNamespace>
+    <AssemblyName>006.InsideTheBuilding</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>
@@ -41,7 +41,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="IlluminatiLock.cs" />
+    <Compile Include="InsideTheBuilding.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
