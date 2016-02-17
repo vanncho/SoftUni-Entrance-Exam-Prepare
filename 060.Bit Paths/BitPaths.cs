@@ -25,7 +25,6 @@ class BitPaths
             int[] boards = currentLine.Split(new char[] { ',' }, StringSplitOptions.RemoveEmptyEntries).Select(int.Parse).ToArray();
 
             int currentCol = boards[0];
-            //int cellValue = SetTheCellValue(initialBoard, currentCol, i);
             int cellValue = 1;
 
             if (initialBoard[0, currentCol] == 1)
@@ -41,7 +40,6 @@ class BitPaths
                 initialBoard[j, currentCol] = cellValue;
             }
         }
-
 
         for (int i = 0; i < initialBoard.GetLength(0); i++)
         {
