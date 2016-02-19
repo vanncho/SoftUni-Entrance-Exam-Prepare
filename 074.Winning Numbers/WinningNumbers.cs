@@ -4,7 +4,7 @@ class WinningNumbers
 {
     static void Main()
     {
-        string s = Console.ReadLine().ToLower();
+        string input = Console.ReadLine().ToLower();
 
         int letSum = 0;
         for (int i = 0; i < s.Length; i++)

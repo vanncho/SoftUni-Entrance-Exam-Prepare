@@ -59,7 +59,7 @@ class Star
             Console.WriteLine();
         }
 
-        // bottom
+        // bottom.
         Console.WriteLine("{0}{1}{0}", new string('*', (n + 2) / 2), new string('.', (2 * n + 1) - 2 * ((n + 2) / 2)));
     }
 }

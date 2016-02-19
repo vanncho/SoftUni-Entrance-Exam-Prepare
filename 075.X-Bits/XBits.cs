@@ -1,6 +1,6 @@
 ﻿using System;
 
-class Program
+class XBits
 {
     static void Main()
     {
@@ -34,14 +34,14 @@ class Program
 
         Console.WriteLine(count);
 
-        // print matrix
-        for (int i = 0; i < bits.GetLength(0); i++)
-        {
-            for (int j = 0; j < bits.GetLength(1); j++)
-            {
-                Console.Write("{0} ", bits[i,j]);
-            }
-            Console.WriteLine();
-        }
+        //// print matrix
+        //for (int i = 0; i < bits.GetLength(0); i++)
+        //{
+        //    for (int j = 0; j < bits.GetLength(1); j++)
+        //    {
+        //        Console.Write("{0} ", bits[i,j]);
+        //    }
+        //    Console.WriteLine();
+        //}
     }
 }

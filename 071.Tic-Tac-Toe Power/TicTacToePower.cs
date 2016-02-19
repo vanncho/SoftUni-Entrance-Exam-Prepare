@@ -38,7 +38,6 @@ class TicTacToePower
             case "22": index = 9; break;
         }
         
-        //double result = Math.Pow(matrix[y, x], index);
         int number = matrix[y, x];
         BigInteger multiply = 1;
         BigInteger result = 0;

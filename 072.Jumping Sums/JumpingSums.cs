@@ -30,6 +30,7 @@ class JumpingSums
         }
 
         int maxSum = int.MinValue;
+
         for (int i = 0; i < sums.Length; i++)
         {
             if (sums[i] > maxSum)
