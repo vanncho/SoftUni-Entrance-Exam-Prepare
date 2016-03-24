@@ -30,9 +30,8 @@
                 Console.WriteLine();
             }
 
-
-            Console.WriteLine("|{0}{1}{0}|", new string(' ', row + 1), new string('_', width - ((2 * row) + 4)));
             // bottom
+            Console.WriteLine("|{0}{1}{0}|", new string(' ', row + 1), new string('_', width - ((2 * row) + 4)));
             Console.WriteLine(@"\{0}/{1}\{0}/", new string('_', row), new string(' ', width - ((2 * row) + 4)));
         }
     }
